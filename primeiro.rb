@@ -1,4 +1,4 @@
-_*_ enconding : utf-8 _*_
+# _*_ enconding : utf-8 _*_
 
 class Modo
 
